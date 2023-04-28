@@ -6,5 +6,3 @@
 -------------|-----| -------
 금융상품서비스 | 2023 | Node
 금융추천시스템 | 2023 | Vue
-
-![제목 없음](https://user-images.githubusercontent.com/71336621/235043307-1ed2e700-04ff-473d-914b-40c4dbd39665.png)
